@@ -1,0 +1,103 @@
+{
+  "question": "what are in page 1",
+  "answer": {
+    "answer": "The most relevant evidence appears in: Sample Data Document.pdf page 2; Sample Data Document.pdf page 1; Sample Data Document.pdf page 3.",
+    "sources": [
+      {
+        "index": 2,
+        "document": "Sample Data Document.pdf",
+        "page": 2,
+        "type": "text",
+        "content": "Sample Data Document Page 2 of3 Product Inventory Data The following table presents a structuredoverviewofthe current warehouse inventory, neatlyorganized with dedicated columns for categorization and tracking. Product ID Product Name Category Stock Status Unit Price 1 0452 Mechanical Keyboard Electronics In Stock $89.99 1 0453 Ergonomic Mouse Electronics Low Stock $45.50 2011 9 Bamboo Desk Organizer Office Supplies Out of Stock $22.00 30984 Noise Cancelling Headphones Audio In Stock $1 50.00 40001 Blue Light Blocking Glasses Accessories In Stock $1 8.99 Conclusion This concludes the formatted document sample. Byutilizing careful layout principles—such as consistent typography, clear sectioning, and structured data presentation—this document demonstrates howraw information can be transformed into a polished, professional artifact suitable for archiving or formal distribution.",
+        "image_path": "C:\\Users\\Pavin\\Desktop\\HACKNEX\\HNX26PSI01\\processed\\pages\\Sample_Data_Document_page_2.png",
+        "score": 0.663981,
+        "keyword_overlap": 3,
+        "rerank_score": 1.074
+      },
+      {
+        "index": 0,
+        "document": "Sample Data Document.pdf",
+        "page": 1,
+        "type": "text",
+        "content": "Sample Data Document Page 1 of3 OpenAI Website Leading AI research and deployment Markdown Guide Documentation for lightweight markup Wikipedia Homepage The free encyclopedia GitHub Repository Source code hosting and version control Figure 1: E-sports / Valorant Interface Concept (Red Accent) rdized Information Formatting and Layout Reference General Information This is a formatted document representation ofthe data previouslyrequested. Unlike rawtext files, this versionleverages structuredtypesetting to arrange the content clearly. It is designed to be highlyreadable, properlyformatted for professional distribution, and serves as an excellent template for reports, briefs, and internal memos. Reference Link Directory The following cards represent keyexternal resources, styled for emphasis rather than plain inline text. Visual Elements Belowis an example ofan embedded interface illustration, accuratelyconstrained to standard document dimensions.",
+        "image_path": "C:\\Users\\Pavin\\Desktop\\HACKNEX\\HNX26PSI01\\processed\\pages\\Sample_Data_Document_page_1.png",
+        "score": 0.62897,
+        "keyword_overlap": 2,
+        "rerank_score": 0.919
+      },
+      {
+        "index": 3,
+        "document": "Sample Data Document.pdf",
+        "page": 3,
+        "type": "text",
+        "content": "Sample Data Document Page 3 of3 Figure 2: E-sports / Valorant Interface Concept (Purple Variant) Figure 3: Cozy Illustrated Village Hub Interface UI Theme Gallery To further demonstrate visual integration, here is a curated selection ofadditional custominterface designs generated for various thematic requirements.",
+        "image_path": "C:\\Users\\Pavin\\Desktop\\HACKNEX\\HNX26PSI01\\processed\\pages\\Sample_Data_Document_page_3.png",
+        "score": 0.46998,
+        "keyword_overlap": 1,
+        "rerank_score": 0.64
+      },
+      {
+        "index": 1,
+        "document": "Sample Data Document.pdf",
+        "page": 2,
+        "type": "table",
+        "content": "ProductID | ProductName | Category | StockStatus | Unit Price 10452 | MechanicalKeyboard | Electronics | InStock | $89.99 10453 | ErgonomicMouse | Electronics | LowStock | $45.50 20119 | BambooDeskOrganizer | OfficeSupplies | OutofStock | $22.00 30984 | Noise Cancelling Headphones | Audio | InStock | $150.00 40001 | Blue Light Blocking Glasses | Accessories | InStock | $18.99",
+        "image_path": "C:\\Users\\Pavin\\Desktop\\HACKNEX\\HNX26PSI01\\processed\\pages\\Sample_Data_Document_page_2.png",
+        "score": 0.356556,
+        "keyword_overlap": 0,
+        "rerank_score": 0.4866
+      }
+    ],
+    "question_type": "TEXT",
+    "calculation": {
+      "used": true,
+      "formula": "manual calculation",
+      "values": {
+        "numbers": [
+          2.0,
+          3.0,
+          1.0,
+          452.0,
+          89.99,
+          1.0,
+          453.0,
+          45.5,
+          2011.0,
+          9.0,
+          22.0,
+          30984.0,
+          1.0,
+          50.0,
+          40001.0,
+          1.0,
+          8.99,
+          1.0,
+          3.0,
+          1.0,
+          3.0,
+          3.0,
+          2.0,
+          3.0,
+          10452.0,
+          89.99,
+          10453.0,
+          45.5,
+          20119.0,
+          22.0,
+          30984.0,
+          150.0,
+          40001.0,
+          18.99
+        ]
+      },
+      "result": 2.0
+    },
+    "visual": {
+      "required": false,
+      "answer": ""
+    },
+    "confidence": "High",
+    "confidence_value": 0.94,
+    "evidence_verified": true
+  }
+}

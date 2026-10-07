@@ -1,0 +1,53 @@
+[
+  {
+    "document": "Sample Data Document.pdf",
+    "page": 1,
+    "type": "text",
+    "content": "Sample Data Document\nPage 1 of3\nOpenAI Website\nLeading AI research and deployment\nMarkdown Guide\nDocumentation for lightweight markup\nWikipedia Homepage\nThe free encyclopedia\nGitHub Repository\nSource code hosting and version control\nFigure 1: E-sports / Valorant Interface Concept (Red Accent)\nrdized Information Formatting and Layout Reference\nGeneral Information\nThis is a formatted document representation ofthe data previouslyrequested. Unlike rawtext files, this\nversionleverages structuredtypesetting to arrange the content clearly. It is designed to be highlyreadable,\nproperlyformatted for professional distribution, and serves as an excellent template for reports, briefs,\nand internal memos.\nReference Link Directory\nThe following cards represent keyexternal resources, styled for emphasis rather than plain inline text.\nVisual Elements\nBelowis an example ofan embedded interface illustration, accuratelyconstrained to standard document\ndimensions.",
+    "image_path": "C:\\Users\\Pavin\\Desktop\\HACKNEX\\HNX26PSI01\\processed\\pages\\Sample_Data_Document_page_1.png",
+    "metadata": {
+      "page_width": 596.0,
+      "page_height": 843.0,
+      "section": "",
+      "source": "pdf_text"
+    }
+  },
+  {
+    "document": "Sample Data Document.pdf",
+    "page": 2,
+    "type": "table",
+    "content": "ProductID | ProductName | Category | StockStatus | Unit Price\n10452 | MechanicalKeyboard | Electronics | InStock | $89.99\n10453 | ErgonomicMouse | Electronics | LowStock | $45.50\n20119 | BambooDeskOrganizer | OfficeSupplies | OutofStock | $22.00\n30984 | Noise Cancelling Headphones | Audio | InStock | $150.00\n40001 | Blue Light Blocking Glasses | Accessories | InStock | $18.99",
+    "image_path": "C:\\Users\\Pavin\\Desktop\\HACKNEX\\HNX26PSI01\\processed\\pages\\Sample_Data_Document_page_2.png",
+    "metadata": {
+      "table_number": 1,
+      "rows": 6,
+      "columns": 5
+    }
+  },
+  {
+    "document": "Sample Data Document.pdf",
+    "page": 2,
+    "type": "text",
+    "content": "Sample Data Document\nPage 2 of3\nProduct Inventory Data\nThe following table presents a structuredoverviewofthe current warehouse inventory, neatlyorganized\nwith dedicated columns for categorization and tracking.\nProduct ID\nProduct Name\nCategory\nStock Status\nUnit Price\n1 0452\nMechanical Keyboard\nElectronics\nIn Stock\n$89.99\n1 0453\nErgonomic Mouse\nElectronics\nLow Stock\n$45.50\n2011 9\nBamboo Desk Organizer\nOffice Supplies\nOut of Stock\n$22.00\n30984\nNoise Cancelling Headphones\nAudio\nIn Stock\n$1 50.00\n40001\nBlue Light Blocking Glasses\nAccessories\nIn Stock\n$1 8.99\nConclusion\nThis concludes the formatted document sample. Byutilizing careful layout principles\u2014such as consistent\ntypography, clear sectioning, and structured data presentation\u2014this document demonstrates howraw\ninformation can be transformed into a polished, professional artifact suitable for archiving or formal\ndistribution.",
+    "image_path": "C:\\Users\\Pavin\\Desktop\\HACKNEX\\HNX26PSI01\\processed\\pages\\Sample_Data_Document_page_2.png",
+    "metadata": {
+      "page_width": 596.0,
+      "page_height": 843.0,
+      "section": "",
+      "source": "pdf_text"
+    }
+  },
+  {
+    "document": "Sample Data Document.pdf",
+    "page": 3,
+    "type": "text",
+    "content": "Sample Data Document\nPage 3 of3\nFigure 2: E-sports / Valorant Interface Concept (Purple Variant)\nFigure 3: Cozy Illustrated Village Hub Interface\nUI Theme Gallery\nTo further demonstrate visual integration, here is a curated selection ofadditional custominterface\ndesigns generated for various thematic requirements.",
+    "image_path": "C:\\Users\\Pavin\\Desktop\\HACKNEX\\HNX26PSI01\\processed\\pages\\Sample_Data_Document_page_3.png",
+    "metadata": {
+      "page_width": 596.0,
+      "page_height": 843.0,
+      "section": "",
+      "source": "pdf_text"
+    }
+  }
+]
